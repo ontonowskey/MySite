@@ -1,0 +1,316 @@
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.exe
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.deps.json
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.runtimeconfig.json
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.runtimeconfig.dev.json
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.pdb
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.csprojAssemblyReference.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.AssemblyInfoInputs.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.AssemblyInfo.cs
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.csproj.CoreCompileInputs.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.MvcApplicationPartsAssemblyInfo.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\staticwebassets\MySite.StaticWebAssets.Manifest.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\staticwebassets\MySite.StaticWebAssets.xml
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\scopedcss\bundle\MySite.styles.css
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorTargetAssemblyInfo.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.dll
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.pdb
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.genruntimeconfig.cache
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.Views.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.Views.pdb
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorAssemblyInfo.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorAssemblyInfo.cs
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.TagHelpers.input.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.TagHelpers.output.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorCoreGenerate.cache
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorTargetAssemblyInfo.cs
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.Views.pdb
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.csproj.CopyComplete
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MVS Repos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\appsettings.production.json
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\appsettings.staging.json
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVS Repos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\appsettings.production.json
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\appsettings.staging.json
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.exe
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.deps.json
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.runtimeconfig.json
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.runtimeconfig.dev.json
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.pdb
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.Views.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\MySite.Views.pdb
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MVSRepos\MySite\MySite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.csprojAssemblyReference.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.AssemblyInfoInputs.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.AssemblyInfo.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.csproj.CoreCompileInputs.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.MvcApplicationPartsAssemblyInfo.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorAssemblyInfo.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorAssemblyInfo.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\staticwebassets\MySite.StaticWebAssets.Manifest.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\staticwebassets\MySite.StaticWebAssets.xml
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\scopedcss\bundle\MySite.styles.css
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.TagHelpers.input.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.TagHelpers.output.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorCoreGenerate.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorTargetAssemblyInfo.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.RazorTargetAssemblyInfo.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.Views.pdb
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.csproj.CopyComplete
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.dll
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.pdb
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\MySite.genruntimeconfig.cache
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+F:\MVSRepos\MySite\MySite\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs

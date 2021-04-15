@@ -1,0 +1,51 @@
+﻿@using MySite.Service
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <title>@ViewData["Title"]</title>
+        <link rel="stylesheet" href="~/css/main.min.css" asp-append-version="true" />
+    </head>
+    <body class="is-preload">
+    <div id="header">
+        <div class="top">
+            <div id="logo">
+                <span class="image avatar48"><img src="~/images/avatar.jpg" alt="" /></span>
+                <h1 id="title">Max Antonov</h1>
+                <p>.NET Junior</p>
+            </div>
+            <nav id="nav">
+                <ul>
+                    <li><a asp-area="" asp-controller="Home" asp-action="">Main page</a></li>
+                    <li><a asp-area="" asp-controller="Services" asp-action="Index" asp-route-id="">Our services (alpha)</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="">Contact me</a></li>
+                    <li><a asp-area="Admin" asp-controller="Home" asp-action="Index">Admin panel</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="bottom">
+            <div class="companyname">
+                <h2><a href="/" id="logo">@Config.CompanyName</a></h2>
+            </div>
+            <ul class="icons">
+                <li><a href="https://instagram.com/ontonowskey" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="https://vk.com/ontonowskey" class="icon brands fa-vk"><span class="label">VK</span></a></li>
+                <li><a href="https://github.com/ontonowskey" class="icon brands fa-github"><span class="label">Github</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="main">
+        <div class="container">
+            @RenderBody()
+        </div>
+    </div>
+    <div id="footer">
+        <ul class="copyright">
+            <li>&copy; Ontonowskey - @DateTime.Now.Year - All rights reserved.</li>
+        </ul>
+    </div>
+    <script src="~/js/scripts.min.js" asp-append-version="true"></script>
+    </body>
+</html>
