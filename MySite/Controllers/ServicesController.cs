@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MySite.Domain;
 
-namespace MyCompany.Controllers
+namespace MySite.Controllers
 {
     public class ServicesController : Controller
     {

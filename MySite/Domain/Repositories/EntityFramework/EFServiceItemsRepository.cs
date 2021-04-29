@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MySite.Domain.Entities;
 using MySite.Domain.Repositories.Abstract;
@@ -11,7 +9,6 @@ namespace MySite.Domain.Repositories.EntityFramework
     public class EFServiceItemsRepository : IServiceItemsRepository
     {
         private readonly AppDbContext context;
-
         public EFServiceItemsRepository(AppDbContext context)
         {
             this.context = context;
@@ -38,7 +35,7 @@ namespace MySite.Domain.Repositories.EntityFramework
 
         public void DeleteServiceItem(Guid id)
         {
-            context.TextFields.Remove(new TextField() { Id = id });
+            context.ServiceItems.Remove(new ServiceItem() { Id = id });
             context.SaveChanges();
         }
     }
