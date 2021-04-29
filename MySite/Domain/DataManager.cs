@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using MySite.Domain.Repositories.Abstract;
+﻿using MySite.Domain.Repositories.Abstract;
 
 namespace MySite.Domain
 {

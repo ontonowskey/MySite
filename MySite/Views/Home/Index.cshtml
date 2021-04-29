@@ -1,13 +1,15 @@
-﻿@{
-    Layout = "_Layout";
-    ViewData["Title"] = "About";
+﻿@model TextField
+@{
+    ViewBag.Description = Model.MetaDescription;
+    ViewBag.KeyWords = Model.MetaKeywords;
+    ViewData["Title"] = "Antonov Develop";
 }
-<!-- Intro -->
+
 <section id="top" class="one dark cover">
     <div class="container">
 
         <header>
-            <hr />
+            <br />
             <h2 class="alt">
                 Hello there! My name is <strong>Maxim Antonov</strong>, I'm a beginning .NET developer.
             </h2>
@@ -17,74 +19,18 @@
             </p>
         </header>
 
-        <footer>
-            <div style="text-align: center">
-                <a href="#portfolio" class="button scrolly">To portfolio</a>
-            </div>
-        </footer>
-
     </div>
 </section>
 
-<!-- Portfolio -->
-<section id="portfolio" class="two">
-    <div class="container">
-
-        <header>
-            <h2>Portfolio</h2>
-        </header>
-
-        <p>
-            
-        </p>
-
-        <div class="row">
-            <div class="col-4 col-12-mobile">
-                <article class="item">
-                    <a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-                    <header>
-                        <h3></h3>
-                    </header>
-                </article>
-                <article class="item">
-                    <a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-                    <header>
-                        <h3></h3>
-                    </header>
-                </article>
-            </div>
-            <div class="col-4 col-12-mobile">
-                <article class="item">
-                    <a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-                    <header>
-                        <h3></h3>
-                    </header>
-                </article>
-                <article class="item">
-                    <a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-                    <header>
-                        <h3></h3>
-                    </header>
-                </article>
-            </div>
-            <div class="col-4 col-12-mobile">
-                <article class="item">
-                    <a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-                    <header>
-                        <h3></h3>
-                    </header>
-                </article>
-                <article class="item">
-                    <a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-                    <header>
-                        <h3></h3>
-                    </header>
-                </article>
-            </div>
-        </div>
-
-    </div>
+<section id="TextField">
+<div class="container1">
+    @Html.Raw(Model.Text)
+</div>
 </section>
+
+
+
+
 
 <!-- About Me -->
 <section id="about" class="three">
@@ -97,48 +43,26 @@
         <a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
 
         <p>
-            I was born in the village near town Ulan-Ude, The Republic of Buryatia (It's a part of Russian Federation, if you didn't know. 
+            I was born in the village near town Ulan-Ude, The Republic of Buryatia (It's a part of Russian Federation, if you didn't know.
             When i first visited Moscow, i was amazed how many people don't know about this thing. That's why I say) in 2001.
-            I was an average schoolchild, plays Warcraft 3 Multiplayer and other games in free time from school. 
-            At school teachers and high school students always predicted that I would be a programmer. <br/>
-            Because I spent a lot of time on the computer... But no one ever tried to interest me for this thing 
+            I was an average schoolchild, plays Warcraft 3 Multiplayer and other games in free time from school.
+            At school teachers and high school students always predicted that I would be a programmer. <br />
+            Because I spent a lot of time on the computer... But no one ever tried to interest me for this thing
             besides, I was smarter then everyone else in interacting with the computer. I didn't see where to expand my skills.
             <strong>Hostage of expectations.</strong> Finally, I finished school after ninth grade, and went to study as programmer.
             I got no interest here, whatever <strong>it was the only evolve step that I have seen.</strong> <br />
             Until in the third year of study I developed a course project, just not to be expelled. Thereafter I was fascinated by a development! <br />
             <strong> Since then, my main goal is to become a real .NET C# developer in any area of development, whether it WEB, Software, or Gamedev. </strong> <br />
-            I want to progress and work, i sense, that is the work of my life. Even though I still don't know much about it. <br/><br/>
-            
+            I want to progress and work, i sense, that is the work of my life. Even though I still don't know much about it. <br /><br />
+
             Thank you for reading this, i appreciate that.
         </p>
 
-    </div>
-</section>
-
-<!-- Contact -->
-<section id="contact" class="four">
-    <div class="container">
-
-        <header>
-            <h2>Contact</h2>
-        </header>
-
-        <p>
-            
-        </p>
-
-        <form method="post" action="#">
-            <div class="row">
-                <div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
-                <div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
-                <div class="col-12">
-                    <textarea name="message" placeholder="Message"></textarea>
-                </div>
-                <div class="col-12">
-                    <input type="submit" value="Send Message" />
-                </div>
+        <footer>
+            <div style="text-align: center">
+                <a href="https://github.com/ontonowskey" class="button scrolly">To portfolio</a>
             </div>
-        </form>
+        </footer><br />
 
     </div>
 </section>
