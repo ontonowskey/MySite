@@ -47,6 +47,13 @@ namespace MySite.Domain
 
             modelBuilder.Entity<TextField>().HasData(new TextField
             {
+                Id = new Guid("05a189b6-0e23-4fcc-b0e3-ad4b6520b848"),
+                CodeWord = "PageIndex",
+                Title = "Main"
+            });
+
+            modelBuilder.Entity<TextField>().HasData(new TextField
+            {
                 Id = new Guid("6e10f728-49f8-423b-b4c2-e11828ec9594"),
                 CodeWord = "PageIndex",
                 Title = "Main"

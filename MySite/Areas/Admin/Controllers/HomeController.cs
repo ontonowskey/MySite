@@ -13,6 +13,8 @@ namespace MySite.Areas.Admin.Controllers
             this.dataManager = dataManager;
         }
 
+
+
         public IActionResult Index()
         {
             return View(dataManager.ServiceItems.GetServiceItems());

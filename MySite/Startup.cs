@@ -3,6 +3,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -63,7 +67,7 @@ namespace MySite
             services.AddControllersWithViews( x=>
             {
                 x.Conventions.Add(new AdminAreaAuthorization("Admin", "AdminArea"));
-            })                        //Support version asp.net core 3.0
+            })                                         //Support version asp.net core 3.0
             .SetCompatibilityVersion(CompatibilityVersion.Version_3_0).AddSessionStateTempDataProvider(); 
         }
 

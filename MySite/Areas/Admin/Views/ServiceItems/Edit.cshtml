@@ -27,7 +27,7 @@
             </div>
             <div class="div-box">
                 <label asp-for="Text"></label>
-                <textarea asp-for="Text"></textarea>
+                <input asp-for="Text" />
                 <span asp-validation-for="Text"></span>
             </div>
             <div class="div-box">
@@ -37,6 +37,7 @@
                     <img class="img-block" src="~/images/@Model.TitleImagePath" />
                 </div>
             </div>
+            <input type="submit" value="Save" />
             <div class="div-box">
                 <label asp-for="MetaTitle"></label>
                 <input asp-for="MetaTitle" />
@@ -52,7 +53,6 @@
                 <input asp-for="MetaKeywords" />
                 <span asp-validation-for="MetaKeywords"></span>
             </div>
-            <input type="submit" value="Save" />
         </form>
     </div>
 </div>

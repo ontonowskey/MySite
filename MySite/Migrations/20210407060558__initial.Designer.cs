@@ -10,7 +10,7 @@ using MySite.Domain;
 namespace MySite.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20210416152037__initial")]
+    [Migration("20210407060558__initial")]
     partial class _initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -51,7 +51,7 @@ namespace MySite.Migrations
                         new
                         {
                             Id = "cbd0901e-2ba1-45a2-be4f-42428dac8572",
-                            ConcurrencyStamp = "cb983c8a-ff86-4019-86a3-becb5e45527a",
+                            ConcurrencyStamp = "256835da-07e9-4392-81f3-f8d00e117c06",
                             Name = "admin",
                             NormalizedName = "ADMIN"
                         });
@@ -150,13 +150,13 @@ namespace MySite.Migrations
                         {
                             Id = "6156d615-8917-40b0-9945-5152cd974992",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "46bd9e8c-989d-479d-b6eb-4182dde595a9",
+                            ConcurrencyStamp = "02eee09f-81b9-433f-b740-4f8caa306e89",
                             Email = "ontonowskey1@gmail.com",
                             EmailConfirmed = true,
                             LockoutEnabled = false,
                             NormalizedEmail = "ONTONOWSKEY1@GMAIL.COM",
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAEAACcQAAAAELBocPCfNUfMQacFWN3EqnZDPQwMWhAwN/f3jjH2MN7zeXXYeqMPOfhHOtWn4AdhPA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEPsnWyAK1E3tXTiESaBuH0lu9yCPMCjXo8PBd1jrWll3hU+ypt1/efh1kb8EVe2H/g==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -328,9 +328,17 @@ namespace MySite.Migrations
                     b.HasData(
                         new
                         {
+                            Id = new Guid("05a189b6-0e23-4fcc-b0e3-ad4b6520b848"),
+                            CodeWord = "PageIndex",
+                            DateAdded = new DateTime(2021, 4, 7, 6, 5, 57, 684, DateTimeKind.Utc).AddTicks(9180),
+                            Text = "Content can only be filled by admin",
+                            Title = "Main"
+                        },
+                        new
+                        {
                             Id = new Guid("6e10f728-49f8-423b-b4c2-e11828ec9594"),
                             CodeWord = "PageIndex",
-                            DateAdded = new DateTime(2021, 4, 16, 15, 20, 36, 366, DateTimeKind.Utc).AddTicks(6664),
+                            DateAdded = new DateTime(2021, 4, 7, 6, 5, 57, 685, DateTimeKind.Utc).AddTicks(2601),
                             Text = "Content can only be filled by admin",
                             Title = "Main"
                         },
@@ -338,7 +346,7 @@ namespace MySite.Migrations
                         {
                             Id = new Guid("fd7b1b4a-cb96-463d-b455-619657451a87"),
                             CodeWord = "PageServices",
-                            DateAdded = new DateTime(2021, 4, 16, 15, 20, 36, 367, DateTimeKind.Utc).AddTicks(123),
+                            DateAdded = new DateTime(2021, 4, 7, 6, 5, 57, 685, DateTimeKind.Utc).AddTicks(2717),
                             Text = "Content can only be filled by admin",
                             Title = "My services"
                         },
@@ -346,7 +354,7 @@ namespace MySite.Migrations
                         {
                             Id = new Guid("c476f33d-7916-4566-aa60-c9094b3596f4"),
                             CodeWord = "PageContacts",
-                            DateAdded = new DateTime(2021, 4, 16, 15, 20, 36, 367, DateTimeKind.Utc).AddTicks(239),
+                            DateAdded = new DateTime(2021, 4, 7, 6, 5, 57, 685, DateTimeKind.Utc).AddTicks(2778),
                             Text = "Content can only be filled by admin",
                             Title = "Contacts"
                         });
