@@ -7,6 +7,7 @@ namespace MySite.Domain
         public ITextFieldsRepository TextFields { get; set; }
         public IServiceItemsRepository ServiceItems { get; set; }
 
+
         public DataManager(ITextFieldsRepository textFieldsRepository, IServiceItemsRepository serviceItemsRepository)
         {
             TextFields = textFieldsRepository;

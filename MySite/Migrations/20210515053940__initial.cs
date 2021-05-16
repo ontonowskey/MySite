@@ -86,6 +86,20 @@ namespace MySite.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "users",
+                columns: table => new
+                {
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    UserName = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    PasswordHash = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    DateAdded = table.Column<DateTime>(type: "datetime2", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_users", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "AspNetRoleClaims",
                 columns: table => new
                 {
@@ -194,21 +208,25 @@ namespace MySite.Migrations
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "cbd0901e-2ba1-45a2-be4f-42428dac8572", "cb983c8a-ff86-4019-86a3-becb5e45527a", "admin", "ADMIN" });
+                values: new object[,]
+                {
+                    { "cbd0901e-2ba1-45a2-be4f-42428dac8572", "7e99a52f-9eb2-4f7d-914d-e6668ff74ecf", "admin", "ADMIN" },
+                    { "d3afe980-83dc-4f63-8482-ad48121aea4b", "f830ee1c-fe09-4fa3-9b0c-4116636dd7f8", "user", "USER" }
+                });
 
             migrationBuilder.InsertData(
                 table: "AspNetUsers",
                 columns: new[] { "Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName" },
-                values: new object[] { "6156d615-8917-40b0-9945-5152cd974992", 0, "46bd9e8c-989d-479d-b6eb-4182dde595a9", "ontonowskey1@gmail.com", true, false, null, "ONTONOWSKEY1@GMAIL.COM", "ADMIN", "AQAAAAEAACcQAAAAELBocPCfNUfMQacFWN3EqnZDPQwMWhAwN/f3jjH2MN7zeXXYeqMPOfhHOtWn4AdhPA==", null, false, "", false, "admin" });
+                values: new object[] { "6156d615-8917-40b0-9945-5152cd974992", 0, "5466231d-24e9-454c-9f21-66c0fa2c7f18", null, true, false, null, null, "ADMIN", "AQAAAAEAACcQAAAAEKK2PEWQvOUGrDJUkFfV5ImA+2TC27y0wU4ebcJy+Ja6DVLF7B3uPof+EaRkMx6+8w==", null, false, "", false, "admin" });
 
             migrationBuilder.InsertData(
                 table: "TextFields",
                 columns: new[] { "Id", "CodeWord", "DateAdded", "MetaDescription", "MetaKeywords", "MetaTitle", "Subtitle", "Text", "Title", "TitleImagePath" },
                 values: new object[,]
                 {
-                    { new Guid("6e10f728-49f8-423b-b4c2-e11828ec9594"), "PageIndex", new DateTime(2021, 4, 16, 15, 20, 36, 366, DateTimeKind.Utc).AddTicks(6664), null, null, null, null, "Content can only be filled by admin", "Main", null },
-                    { new Guid("fd7b1b4a-cb96-463d-b455-619657451a87"), "PageServices", new DateTime(2021, 4, 16, 15, 20, 36, 367, DateTimeKind.Utc).AddTicks(123), null, null, null, null, "Content can only be filled by admin", "My services", null },
-                    { new Guid("c476f33d-7916-4566-aa60-c9094b3596f4"), "PageContacts", new DateTime(2021, 4, 16, 15, 20, 36, 367, DateTimeKind.Utc).AddTicks(239), null, null, null, null, "Content can only be filled by admin", "Contacts", null }
+                    { new Guid("6e10f728-49f8-423b-b4c2-e11828ec9594"), "PageIndex", new DateTime(2021, 5, 15, 5, 39, 39, 943, DateTimeKind.Utc).AddTicks(5278), null, null, null, null, "Content can only be filled by admin", "Main", null },
+                    { new Guid("fd7b1b4a-cb96-463d-b455-619657451a87"), "PageServices", new DateTime(2021, 5, 15, 5, 39, 39, 943, DateTimeKind.Utc).AddTicks(6873), null, null, null, null, "Content can only be filled by admin", "My services", null },
+                    { new Guid("c476f33d-7916-4566-aa60-c9094b3596f4"), "PageContacts", new DateTime(2021, 5, 15, 5, 39, 39, 943, DateTimeKind.Utc).AddTicks(6923), null, null, null, null, "Content can only be filled by admin", "Contacts", null }
                 });
 
             migrationBuilder.InsertData(
@@ -278,6 +296,9 @@ namespace MySite.Migrations
 
             migrationBuilder.DropTable(
                 name: "TextFields");
+
+            migrationBuilder.DropTable(
+                name: "users");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");

@@ -49,9 +49,16 @@ namespace MySite.Migrations
                         new
                         {
                             Id = "cbd0901e-2ba1-45a2-be4f-42428dac8572",
-                            ConcurrencyStamp = "cb983c8a-ff86-4019-86a3-becb5e45527a",
+                            ConcurrencyStamp = "7e99a52f-9eb2-4f7d-914d-e6668ff74ecf",
                             Name = "admin",
                             NormalizedName = "ADMIN"
+                        },
+                        new
+                        {
+                            Id = "d3afe980-83dc-4f63-8482-ad48121aea4b",
+                            ConcurrencyStamp = "f830ee1c-fe09-4fa3-9b0c-4116636dd7f8",
+                            Name = "user",
+                            NormalizedName = "USER"
                         });
                 });
 
@@ -148,13 +155,11 @@ namespace MySite.Migrations
                         {
                             Id = "6156d615-8917-40b0-9945-5152cd974992",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "46bd9e8c-989d-479d-b6eb-4182dde595a9",
-                            Email = "ontonowskey1@gmail.com",
+                            ConcurrencyStamp = "5466231d-24e9-454c-9f21-66c0fa2c7f18",
                             EmailConfirmed = true,
                             LockoutEnabled = false,
-                            NormalizedEmail = "ONTONOWSKEY1@GMAIL.COM",
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAEAACcQAAAAELBocPCfNUfMQacFWN3EqnZDPQwMWhAwN/f3jjH2MN7zeXXYeqMPOfhHOtWn4AdhPA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEKK2PEWQvOUGrDJUkFfV5ImA+2TC27y0wU4ebcJy+Ja6DVLF7B3uPof+EaRkMx6+8w==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -328,7 +333,7 @@ namespace MySite.Migrations
                         {
                             Id = new Guid("6e10f728-49f8-423b-b4c2-e11828ec9594"),
                             CodeWord = "PageIndex",
-                            DateAdded = new DateTime(2021, 4, 16, 15, 20, 36, 366, DateTimeKind.Utc).AddTicks(6664),
+                            DateAdded = new DateTime(2021, 5, 15, 5, 39, 39, 943, DateTimeKind.Utc).AddTicks(5278),
                             Text = "Content can only be filled by admin",
                             Title = "Main"
                         },
@@ -336,7 +341,7 @@ namespace MySite.Migrations
                         {
                             Id = new Guid("fd7b1b4a-cb96-463d-b455-619657451a87"),
                             CodeWord = "PageServices",
-                            DateAdded = new DateTime(2021, 4, 16, 15, 20, 36, 367, DateTimeKind.Utc).AddTicks(123),
+                            DateAdded = new DateTime(2021, 5, 15, 5, 39, 39, 943, DateTimeKind.Utc).AddTicks(6873),
                             Text = "Content can only be filled by admin",
                             Title = "My services"
                         },
@@ -344,10 +349,30 @@ namespace MySite.Migrations
                         {
                             Id = new Guid("c476f33d-7916-4566-aa60-c9094b3596f4"),
                             CodeWord = "PageContacts",
-                            DateAdded = new DateTime(2021, 4, 16, 15, 20, 36, 367, DateTimeKind.Utc).AddTicks(239),
+                            DateAdded = new DateTime(2021, 5, 15, 5, 39, 39, 943, DateTimeKind.Utc).AddTicks(6923),
                             Text = "Content can only be filled by admin",
                             Title = "Contacts"
                         });
+                });
+
+            modelBuilder.Entity("MySite.Domain.Entities.UserBase", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("DateAdded")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PasswordHash")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("users");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

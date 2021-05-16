@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@model IEnumerable<IdentityUser>;
+@{
+    ViewBag.Title = "Список пользователей";
+}
+
+<a asp-action="Create" class="scrolly button">Добавить пользователя</a><hr />
+
+<table class="table">
+    <tr><th>Имя пользователя</th><th>Email</th><th>Номер телефона</th><th>Пароль</th></tr>
+    @foreach (var User in Model)
+    {
+        <tr>
+            <td>@User.UserName</td>
+            <td>@User.Email</td>
+            <td>@User.PhoneNumber</td>
+            <td>
+                <form asp-action="Delete" asp-route-id="@User.Id" method="post">
+                    <a class="Button" asp-action="Edit" asp-route-id="@User.Id">Изменить</a>
+                    <a class="Button" asp-action="Edit" asp-route-id="@User.Id">Сменить пароль</a>
+                    <button type="submit" class="button warning" style="margin-left: 1.2em">
+                        Удалить
+                    </button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>

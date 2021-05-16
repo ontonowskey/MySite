@@ -1,4 +1,7 @@
 ﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Authorization";
+}
 <div>
     <h2>Enter to the profile</h2>
     <div class="div-box">
@@ -20,4 +23,5 @@
             </div>
         </form>
     </div>
+    <a class="button scrolly" asp-area="" asp-controller="Account" asp-action="Register">Register</a>
 </div>

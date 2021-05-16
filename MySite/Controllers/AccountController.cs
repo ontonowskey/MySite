@@ -19,9 +19,15 @@ namespace MySite.Controllers
             signInManager = signinMgr;
         }
 
+        //auth
         [AllowAnonymous]
         public IActionResult Login(string returnUrl)
         {
+            if (HttpContext.User.Identity.IsAuthenticated)
+            {
+                return Redirect(returnUrl ?? "/");
+            }
+
             ViewBag.returnUrl = returnUrl;
             return View(new LoginViewModel());
         }
@@ -45,12 +51,56 @@ namespace MySite.Controllers
             }
             return View(model);
         }
+        //signup
+
+        [AllowAnonymous]
+        public IActionResult Register(string returnUrl)
+        {
+            if (HttpContext.User.Identity.IsAuthenticated)
+            {
+                return Redirect(returnUrl ?? "/");
+            }
+
+            ViewBag.returnUrl = returnUrl;
+            return View(new RegisterViewModel());
+        }
+
+        [HttpPost]
+        [AllowAnonymous]
+        public async Task<ActionResult> Register(RegisterViewModel model, string returnUrl)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = new IdentityUser { UserName = model.UserName };
+                var result = await userManager.CreateAsync(user, model.Password);
+
+                if (result.Succeeded) 
+                {
+                    await signInManager.SignInAsync(user, false);
+                    return RedirectToAction("Index","Home");
+                } 
+                else 
+                {
+                    foreach (var error in result.Errors) 
+                    {
+                        ModelState.AddModelError("", error.Description);
+                    }
+                }
+            }
+            return View(model);
+        }
 
         [Authorize]
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
+        }
+
+        [Authorize]
+        public IActionResult Accesdenied()
+        {
+            return View();
         }
     }
 }

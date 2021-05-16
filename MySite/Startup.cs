@@ -35,7 +35,6 @@ namespace MySite
             //option identity sys
             services.AddIdentity<IdentityUser, IdentityRole>(opts =>
             {
-                opts.User.RequireUniqueEmail = true;
                 opts.Password.RequiredLength = 6;
                 opts.Password.RequireNonAlphanumeric = false;
                 opts.Password.RequireLowercase = false; 

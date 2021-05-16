@@ -27,13 +27,18 @@ namespace MySite.Domain
                 NormalizedName = "ADMIN"
             });
 
+            modelBuilder.Entity<IdentityRole>().HasData(new IdentityRole
+            {
+                Id = "d3afe980-83dc-4f63-8482-ad48121aea4b",
+                Name = "user",
+                NormalizedName = "USER"
+            });
+
             modelBuilder.Entity<IdentityUser>().HasData(new IdentityUser
             {
                 Id = "6156d615-8917-40b0-9945-5152cd974992",
                 UserName = "admin",
                 NormalizedUserName = "ADMIN",
-                Email = "ontonowskey1@gmail.com",
-                NormalizedEmail = "ONTONOWSKEY1@GMAIL.COM",
                 EmailConfirmed = true,
                 PasswordHash = new PasswordHasher<IdentityUser>().HashPassword(null, "adminpassword"),
                 SecurityStamp = string.Empty
